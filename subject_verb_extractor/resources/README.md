@@ -8,7 +8,7 @@ This directory contains external resources required by the module.
 
 
 
-The file `glowbe\\\_sources.csv` is required to run the application but is not included in this repository because of its size.
+The file `glowbe_sources.csv` is required to run the application but is not included in this repository because of its size.
 
 
 
