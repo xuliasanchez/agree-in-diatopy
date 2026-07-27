@@ -12,5 +12,5 @@ The file `glowbe_sources.csv` is required to run the application but is not incl
 
 
 
-Place the file in the following location: `subject\_verb\_extractor/resources/glowbe\_sources.csv`
+Place the file in the following location: `subject_verb_extractor/resources/glowbe_sources.csv`
 
